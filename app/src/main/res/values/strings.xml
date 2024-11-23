@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartAss</string>
+    <string name="title_activity_user_setup">UserSetup</string>
+    <string name="com_auth0_domain">hdp-liara.us.auth0.com</string>
+</resources>

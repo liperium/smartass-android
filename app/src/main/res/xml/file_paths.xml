@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="proof_images" path="." />
+    <files-path
+        name="downloaded_files"
+        path="." />
+</paths>
